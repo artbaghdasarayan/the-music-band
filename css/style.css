@@ -1,0 +1,519 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar{
+	width: 100%;
+	background-color: black;
+	position: fixed;
+	z-index: 999;
+}
+
+
+
+.navbar ul{
+	list-style: none;
+
+
+}
+
+.navbar ul li{
+	float: left;
+
+}
+
+.navbar ul li a{
+	display: block;
+	padding: 15px;
+	color: white;
+	text-decoration: none;
+	font-family: "Lato", sans-serif;
+	font-size: 15px;
+	box-sizing: inherit;
+}
+
+.navbar ul li a:hover{
+	background-color: gray;
+	color: black;
+}
+
+.dropdown-contant{
+	background-color: white;
+	color: black!important;
+min-width: 123px;
+position: absolute;
+display: none;
+overflow: hidden;
+}
+.dropdown-contant h3{
+	padding: 15px;
+	font-size: 15px;
+	font-family: "Lato", sans-serif;
+}
+.dropdown-contant h3:hover{
+	background-color: gray;
+	color: black;
+}
+.dropdown:hover .dropdown-contant{
+display: block;
+
+}
+
+.img{
+	width: 100%;
+	margin-top: 47px;
+	
+}
+
+.div2{
+	width: 100%;
+	background-color: white;
+}
+
+.h2{
+	text-align: center;
+	font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    margin: 70px;
+    font-size: 30px;
+}
+
+.i{
+	text-align: center;
+	font-family: "Lato", sans-serif;
+	color: gray;
+	margin-top: -50px;
+}
+
+.div80{
+position: absolute;
+  left: 495px;
+  top: 578px;
+  color: white;
+  text-align: center;
+  font-family: "Segoe UI",Arial,sans-serif;
+}
+
+.p1{
+	text-align: justify;
+	font-size: 15px;
+    line-height: 1.5;
+    font-family: "Lato", sans-serif;
+    display: block;
+    margin-top: 30px;
+}
+}
+
+.search{
+	float: right;
+}
+
+.icon{
+color: white;
+}
+
+.ajmenu{
+	display: block;
+	padding: 15px;
+	text-decoration: none;
+	font-family: "Lato", sans-serif;
+	font-size: 15px;
+	box-sizing: inherit;
+	position: absolute;
+    left: 1304px;
+}
+
+.ajmenu:hover{
+background-color: red!important
+}
+
+.div2{
+	width: 100%;
+}
+
+.div3{
+
+	padding-top: 32px;
+    padding-bottom: 32px;
+    text-align: center!important;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.div4{
+	float: left;
+	width: 33.33333%;
+}
+
+
+.div5{
+	float: left;
+	width: 33.33333%;
+}
+
+.div6{
+	float: left;
+	width: 33.33333%;
+}
+
+.div7{
+	
+	width: 50%;
+	margin: auto;
+}
+
+.pp{
+	float: left;
+}
+
+.img1{
+	width: 30%;
+    margin-left: 370px;
+}
+
+
+.img2{
+	width: 30%;
+}
+
+.img3{
+	width: 30%;
+	margin-left: -420px;
+}
+
+.p3{
+	 margin-left: 420px;
+}
+
+.p4{
+	 margin-left: -420px;
+}
+
+.div8{
+	width: 100%;
+	height: 820px;
+	background-color: black;
+	margin-top: 235px;
+
+}
+
+.div9{
+	color: white;
+	text-align: center;
+	line-height: 1.5;
+   letter-spacing: 4px;
+}
+
+.h3{
+font-weight: 400;
+padding-top: 70px;
+font-size: 30px;
+font-family: "Segoe UI",Arial,sans-serif;
+}
+
+.p5{
+	font-family: "Lato", sans-serif;
+	 padding-top: 11px;
+	 line-height: 1.5;
+    letter-spacing: 4px;
+}
+
+.i1{
+	    
+	    color: silver;
+	    font-size: 15px;
+
+}
+
+.ul1{
+	width: 768px;
+	height: 120px;
+	background-color: white;
+	margin-left: 305px;
+    list-style-type: none;
+    font-family: "Lato", sans-serif;
+
+}
+
+.li1{
+color: gray;
+border-bottom: 1px solid #ddd;
+font-size: 15px;
+padding: 8px 16px!important;
+
+}
+
+.li2{
+color: gray;
+margin-bottom: 30px;
+border-bottom: 1px solid #ddd;
+font-size: 15px;
+padding: 8px 16px!important;
+
+}
+
+
+.li3{
+color: gray;	
+font-size: 15px;
+margin-top: -18px;
+margin-left: 17px;
+}
+
+.ppp{
+	    float: left;
+    
+}
+
+.span1{
+	background-color: #f44336;
+	color: white;
+	 margin-left: -527px!important;
+}
+
+.span2{
+	background-color: #f44336;
+	color: white;
+	    margin-left: -527px!important;
+}
+
+.span3{
+	background-color: black;
+	color: white;
+	border-radius: 200%;
+    margin-left: 562px;
+}
+
+.div10{
+    margin-top: 35px;
+    margin-left: 160px;
+
+}
+
+.img4{
+	width: 245px;
+	height: 183px;
+	float: left;
+	margin-left: 145px;
+}
+
+.img5{
+	width: 245px;
+	height: 183px;
+	float: left;
+    margin-left: 10px;
+}
+
+.img6{
+	width: 245px;
+	height: 183px;
+	float: left;
+    margin-left: -124px;
+}
+
+.div11{
+	width: 33.33333%;
+	float: left;
+}
+
+.div12{
+	width: 33.33333%;
+	float: left;
+}
+
+.div13{
+width: 33.33333%;
+float: left;	
+}
+
+.div14{
+	width: 18%;
+	height: 190px;
+	float: left;
+	background-color: white;
+    color: black;
+    margin-left: 305px;
+}
+
+.div15{
+	width: 18%;
+	height: 190px;
+	float: left;
+	background-color: white;
+    margin-left: 19px;
+    color: black;
+}
+
+.div16{
+	width: 245px;
+	height: 190px;
+	float: left;
+    margin-left: 19px;
+    background-color: white;
+    color: black;
+}
+
+.button1{
+	width: 107px;
+	height: 38px;
+	float: left;
+	color: white;
+	background-color: black;
+}
+
+.button1:hover{
+	color: black;
+	background-color: silver;
+}
+
+
+.div17{
+	width: 100%;
+	height: 500px;
+	background-color: white;
+    margin-top: 586px;
+}
+
+.contact{
+	text-align: center;
+	color: black;
+	font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+    font-size: 30px;
+}
+
+.p7{
+text-align: center;
+padding-bottom: 150px;
+}
+
+.i7{
+font-family: "Lato", sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: gray;
+
+}
+
+.div18{
+	width: 768px;
+	height: 222px;
+}
+
+.div19{
+	width:383px; 
+	height:81px;
+    margin-top: -356px;
+    margin-left: 172px;
+	
+}
+
+.map{
+	color: black;
+    margin-left: -99px;
+}
+
+.phone{
+	width: 70%;
+	color: black;
+    margin-left: -32px;
+    transform:rotate();
+}
+
+
+.mail{
+	width: 80%;
+	color: black;
+}
+
+.div20{
+	width: 383px;
+	height: 158px;
+    margin-top: -219px;
+    margin-left: 666px;
+}
+
+.nkar{
+	width: 100%;
+	margin-top: 100px;
+}
+
+.div21{
+	width:415px; 
+	height:40px;
+}
+
+.div22{
+	width:199px; 
+	height:40px;
+}
+
+.input{
+border: 1px solid #ccc!important;
+padding: 8px;
+display: block;
+}
+
+.div23{
+	width:199px; 
+	height:40px;
+   margin-left: 196px;
+    margin-top: -40px;
+}
+
+.input1{
+border: 1px solid #ccc!important;
+padding: 8px;
+display: block;
+}
+
+.input2{
+width: 95.5%;
+border: 1px solid #ccc!important;
+padding: 8px;
+display: block;
+border:none;
+}
+
+.button{
+	width: 71px;
+	height: 38px;
+	margin-right: -312px;
+    margin-top: 33px;
+    color: #fff;
+    background-color: #000;
+}
+
+.button:hover{
+	color:black;
+	background-color: silver;
+}
+
+.div777{
+	background-color: white;
+	color:#545150;
+	font-size: 25px;
+	text-align: center;
+	padding-bottom: 19px;
+	padding-top: 80px;
+}
+
+.p7{
+	background-color: white;
+	text-align: center;
+	color:gray;
+	font-family: "Lato", sans-serif;
+}
+
+.box{
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	opacity: 0;
+}
+
+.img4:hover div{
+	opacity: 0,3;
+}
